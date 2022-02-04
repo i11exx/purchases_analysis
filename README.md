@@ -27,5 +27,3 @@ git clone https://github.com/i11exx/purchases_analysis.git
 cd purchases_analysis
 jupyter-notebook purchases.ipynb
 ```
-
-
